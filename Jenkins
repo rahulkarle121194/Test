@@ -1,0 +1,23 @@
+1) What is Jenkins?
+
+Jenkins is a tool that is used for automation. It is mainly an open-source server that allows all the developers to build, test and deploy software.
+By using Jenkins we can make a continuous integration of projects(jobs) or end-to-endpoint automation
+
+2) What is Jenkins Continuous Integration (CI)?
+Jenkins Continuous integration means whenever new code is committed to remote repositories like GitHub, GitLab, etc. 
+Continuous Integration (CI) will continuously build, tested, and merged into a shared repository.
+
+3) Benefits of Continuous Integration (CI)
+- We can maintain the reports of the projects
+- Deployments can be made within the given time
+- Bugs can be found quickly.
+
+4) What is Jenkins Continuous Deployment/Delivery (CD)?
+
+Continuous Deployment means automating the further stages of the pipeline automatically or manually deploying the application/code to different environments like Dev, Test, and Production.
+Automating the build is the main component of Continuous Integration and Continuous Deployment.
+
+Continuous Delivery
+Each and every build that passed all automated tests and was able to be fully automated and delivered into production only required one click of human intervention is called Continuous Delivery.
+
+5) 
